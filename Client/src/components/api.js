@@ -1,4 +1,4 @@
-let baseUrl = 'https://backednd-m.herokuapp.com/';
+let baseUrl = 'https://fabulous-doll.glitch.me/';
 export default {
     
     fetch:async function(){
