@@ -30,6 +30,5 @@ export default new Router({
       name: 'view',
       component:view
     }
-  ],
-    mode:'history'
+  ]
 })
